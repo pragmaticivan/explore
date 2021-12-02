@@ -13,6 +13,7 @@ items:
   - RocketChat/Rocket.Chat
   - tsuru/tsuru
   - goreleaser/goreleaser
+  - pragmaticivan/nestjs-otel
 display_name: Made in Brazil
 created_by: caarlos0
 image: made-in-brazil.png
